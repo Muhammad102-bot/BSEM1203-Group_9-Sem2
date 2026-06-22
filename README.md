@@ -151,8 +151,6 @@ CHERS/
 💡 FUTURE UPGRADES
 --------------------------------------------------------
 - AI Diagnostic Assistant
-- Cloud database integration
-- Multi-hospital sync system
 - Mobile companion app
 - Voice-controlled emergency system
 
@@ -170,4 +168,4 @@ real medical diagnosis or clinical use.
 
 ========================================================
                 END OF DOCUMENT
-========================================================
+==============================================
