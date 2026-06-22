@@ -1,5 +1,6 @@
 # BSEM1203-Group_9-Sem2
-Final PROJECT 
+Final PROJECT
+By Mohamed Salieu Turay, Sam Bailor Jalloh and Joseph Aiah
 ========================================================
               🏥 CHERS - Clinical Management System
 ========================================================
